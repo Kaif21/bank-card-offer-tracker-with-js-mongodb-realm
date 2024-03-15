@@ -7,7 +7,9 @@ The Card Offer Tracker is a simple web application that helps bank cardholders d
 - **Merchant Search**: Users can search for offers by entering the merchant name in the search input field.
 - **Merchant Dropdown**: If users are unsure of the merchant name, they can select it from a dropdown list populated with all available merchants.
 - **Offer Display**: Matching offers are displayed in a list format, showing the merchant name, category, and offer details.
-- **Responsive Design**: The application is designed to be responsive and accessible on various devices and screen sizes.
+<!-- - **Responsive Design**: The application is designed to be responsive and accessible on various devices and screen sizes. -->
+
+- **Responsive Design**: Working on it.
 
 ## **Installation**
 

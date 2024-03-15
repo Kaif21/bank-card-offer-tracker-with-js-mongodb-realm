@@ -1,0 +1,3002 @@
+[{
+    "_id": {
+      "$oid": "65f096fff0a3ea48e8fd1485"
+    },
+    "data": [
+      {
+        "Merchant_Name": "Astorion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bishwo Rang",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kay Kraft",
+        "Category": "Lifestyle",
+        "Offer": "10% on over Tk.5,000"
+      },
+      {
+        "Merchant_Name": "Sara Lifestyle",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Spark Gear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Twelve Clothing",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Lend",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Artist",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "B2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Giordano",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Demand",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Deen",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gentle Man",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Goodies Deal",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Goodwill",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Irani Borka",
+        "Category": "Lifestyle",
+        "Offer": "Up to 10%"
+      },
+      {
+        "Merchant_Name": "Mbrella",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Noir",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Orbit Mart",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Qrius",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raw Nation",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Vogue By Prince",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Westwood",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "A Plus Boutique",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "A. Aziz & Sons",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "A1 Lifestyle",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Aamber",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Aamber Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Aamins Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Aapon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Abaya Al Samir",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Adi Mohini Kanjilal",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Adnan",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Ador Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Afra Bag",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Afra Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Afshaar Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Akhi General Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Al Habib",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Al Nur Tailor",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Albeli Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Alien Life Style",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Alif Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Alivana",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Al-Marzuk",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Al-Modina Borka Bazar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Al-Quader Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Alvina Happy Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Amanat Mens Wear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Americana",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Amira",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ammu Style Zone",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Amontron Saree'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ananya Fashion World",
+        "Category": "Lifestyle",
+        "Offer": "10% Selected items"
+      },
+      {
+        "Merchant_Name": "Anas Footwear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Anchor",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "And Studio",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Angel",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Angel'S Closet Bd",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Anindita Boutiques",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Annisa Gallery",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Anowar Cosmetics & General Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ap Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Apparel Export Garments",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ar Point",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Arif Gents City",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Arizal Life",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Arpon Bastra Bitan",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Arshi Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Artistic Outfitters",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Artizara",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Arvi",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Arvind Tailor And Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Asian Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Asil Fashion Incorporation",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Asteria",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Auntar Shari Ghar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Avanza",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ayaan Men'S Zone",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ayaan Punjabi World",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Azdaa",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Azizs Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Azizs Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Baba Bastraylay-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Baby Corner",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Baby Land",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Baby Shoppers",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Baby Style",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Baby'S Garden",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Badhua Sharees",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bag Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bag Gallary",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bag'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Baluchar",
+        "Category": "Lifestyle",
+        "Offer": "12%"
+      },
+      {
+        "Merchant_Name": "Banani Fashion Collection",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Bangles Store",
+        "Category": "Lifestyle",
+        "Offer": "50% Making Charge"
+      },
+      {
+        "Merchant_Name": "Barnali Sarees",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Be Win Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Beginning",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Benefit International",
+        "Category": "Lifestyle",
+        "Offer": "10% On Cloth"
+      },
+      {
+        "Merchant_Name": "Beni Boonon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Best Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Best Friends Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bibi Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bidhata",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Big Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Billal Bag House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Birds Eye",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Bishal",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Bismillah Kids Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Blu",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Blue Age",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Blue Dream",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Blue Hill",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Blue Sign",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Body Frame",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Bonanza",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Borka House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Borka Mall",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Brand House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Brand Zone",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Buttons Menswear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Buzz Fashion",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Calivar",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Camell",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Case And Carry",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Casual Fit",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Century Tailors And Febrics",
+        "Category": "Lifestyle",
+        "Offer": "10% On Febrics"
+      },
+      {
+        "Merchant_Name": "Chader Haat",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Chanel Look",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Chanel Star",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Charulata Mega Mall",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Chhit Sambhar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Child Care",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Choices 4U",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Cholti Hawa",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Classic Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Classic Nawab Panjabi",
+        "Category": "Lifestyle",
+        "Offer": "30%"
+      },
+      {
+        "Merchant_Name": "Classic Panjabi",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Coin Exclusive Fashion Wear",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Cosmetics India",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Cotton Boutiques",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Cozy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Craft Bliss",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Craft Castle",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Craft Castle Littles",
+        "Category": "Lifestyle",
+        "Offer": "10% Accessories"
+      },
+      {
+        "Merchant_Name": "Craft Castle Unlimited",
+        "Category": "Lifestyle",
+        "Offer": "10% Accessories"
+      },
+      {
+        "Merchant_Name": "Creator",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "D Sultan",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dalim'S",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Dazzle Blue",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Debenhams",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Decent Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Desire Bd",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dh Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dhaka Republic",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Different Touch",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Different Touch",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dishari",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Doll Etnick Wear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dorji Bari Tailors & Fabrics Scenter",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dot'Z",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dream Fashion House - 2",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Dreamy Dress",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dress Leader",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dress Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dress Mart Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dress World",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Dubai Abaya",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Duds",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Duetad Aitijya",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Dunhill London",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Eclat Emporio",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Emon Shari Ghar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Eraser",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Erm Men'S",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Eros",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Estilo International",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Evan Plus",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Expo Design",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Export Collection Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Export Collections",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Export Zone",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Extra",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Extreme",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Face",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Face-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fahad Kids Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fairy Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Faizan Punjabi World",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fame Wear",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Farjun",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Farzin Fashion",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Fashion Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fashion Fair",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fashion Gallery",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fashion Seekers",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fashion World",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Fashion Zone",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Fiero",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Fila",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Finesse",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Fitness Lifestyle",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Flamingo",
+        "Category": "Lifestyle",
+        "Offer": "Upto 20%"
+      },
+      {
+        "Merchant_Name": "Fop'S Febrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gaibee",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gallery Raymond Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gallery21",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gap",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Garden",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Getup Point",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Girlhood",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Girls Clothes Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Glamaxy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Glamaxy By Sultana",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Global Avenue",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Glow",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Golden Gallery",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gonesh Bostraloy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Grace View",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Grameen Check",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Grand Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Groom",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Gulshan Sharee",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Gulshan Sharee",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Handi Bazar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Hanif Sharees",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Haramain Apparels Ltd",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Harbinger Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Harun And Brothers",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Hashtag",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Heera Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Hello Baby",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Heritage",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Hoimanti Fashion-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Holly Wood",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Hossain Emporium",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Icon Exclusive Men'S Wear",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ifty Sharee House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Imran Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Indie",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Irani Borka Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ispa",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ittehad",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "J B Borka Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jafrin Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jahan Export House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jalalabad Traders & Suppliers",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jamdani World",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jamdhani House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Janani Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jannat Fashion",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Jannat Mark",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Jas",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Jasart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jasy Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jeans Bazar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "JF Fashion Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "JNS",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Joes",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Joya Fashion",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Joytas Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "JR Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jublee Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jugantory",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Jui Fashion",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Juniors",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kaaruu",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kafiya Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kalanjali Sharees",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kanok Chapa",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kanon'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Karbon Style Inside",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kasika Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kenjiss-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Keya Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khadi Babon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khadi Babon",
+        "Category": "Lifestyle",
+        "Offer": ""
+      },
+      {
+        "Merchant_Name": "Khadi Shilpo Babon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khajana Febrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kumudini Handicrafts",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khoobsurat Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khubsurat",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Khukumoni Ovijat Bastro Biponi",
+        "Category": "Lifestyle",
+        "Offer": "12%"
+      },
+      {
+        "Merchant_Name": "Kiddo",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kiddy Campus",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kiddyans",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kid'S Avenue",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Kids Bazar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "King Unlimit Fashion",
+        "Category": "Lifestyle",
+        "Offer": "30%"
+      },
+      {
+        "Merchant_Name": "Kl Sweden Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Kolkatar Vabi",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Koral Klauset",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "La Bela Ladies Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Labonis Collection",
+        "Category": "Lifestyle",
+        "Offer": "30%"
+      },
+      {
+        "Merchant_Name": "Ladies Park",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Lady Boutiquies",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Lavender",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Leather Fair",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Leelabali-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Levi'S Exclusive",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Life Style",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Living Free Fashion",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Liza Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Logo",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Look",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Look & Like",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Look'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Look'S & Bag'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Lussotic",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Luxury Life Style",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Luxury Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "M/A Angana",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Maa Garments",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Maching World",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Madina Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mahira Exclusive",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mahi'S Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mammy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mamoni Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Man One",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Manyavar- Dhanmondi",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Marjan Boutiques",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mashallah Fashion",
+        "Category": "Lifestyle",
+        "Offer": "Upto 20%"
+      },
+      {
+        "Merchant_Name": "Masud Matching Center",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Matra",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Max Men'S Outfit",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mayur",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "MB Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mbrella",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mela",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Men'S Club",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Men'S Park",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Men'S Ruma Traders",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Men'Z Corner",
+        "Category": "Lifestyle",
+        "Offer": "Upto 20%"
+      },
+      {
+        "Merchant_Name": "Milon Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mitra Cloth Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mitua Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mitua Tailors & Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Modern Antara Tailors",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mohanagar Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mohavir",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Monerekho Sharee Ghor",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Monika",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Monowara Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Moon Zaara",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Morning Glory",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Morshed Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "M-Star",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mufta Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Mumbai Boutiques",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Munchkins",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Munni Sharies",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nabila",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nabila Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nadia Cosmatics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nafisa Boutique",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nakshi Katha",
+        "Category": "Lifestyle",
+        "Offer": "Up To 10%"
+      },
+      {
+        "Merchant_Name": "Nandon Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nandonik",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nari Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Naya Piran Boutique",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nazar",
+        "Category": "Lifestyle",
+        "Offer": "Upto 25%"
+      },
+      {
+        "Merchant_Name": "Neel Anchal",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Neel Craft",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Anika",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Azmir Care Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Bismillah Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "New Chanel Borka And Tailors",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Color City Cosmetic",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Dulonchapa Sheewani Center",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Foring",
+        "Category": "Lifestyle",
+        "Offer": "35%"
+      },
+      {
+        "Merchant_Name": "New Friends Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Lead Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Matching Fair",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Prime Lawn Colection",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "New Riser",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Road Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "New Zara Tailors And Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "17%"
+      },
+      {
+        "Merchant_Name": "Nexus Gallery",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Nibir Fashion",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Nill Achol",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nirala Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nitol Boutique",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "NN Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nongar",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Noor Sharee",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Nova Womens World",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Nubayaan",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nur",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nur Baby Shop",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Nur Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "NYS Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Orchid Basra Bitan",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Orchid Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ovs Exclusive",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Palak Sharee House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Palki Cosmetics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Panjabi Khutir",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Panjabi Wala",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Pari Fashion",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Park Land",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Pink Rose",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Pintu Jewellers",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Porash Fashion",
+        "Category": "Lifestyle",
+        "Offer": "50% Making Charge"
+      },
+      {
+        "Merchant_Name": "Porosh Moni Block Ghor",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Prems Collection",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Priya Bag Gallery",
+        "Category": "Lifestyle",
+        "Offer": "15% Except E-Store & Ctg"
+      },
+      {
+        "Merchant_Name": "Priyo",
+        "Category": "Lifestyle",
+        "Offer": "10-%"
+      },
+      {
+        "Merchant_Name": "Priyo Traders",
+        "Category": "Lifestyle",
+        "Offer": "Upto 20%"
+      },
+      {
+        "Merchant_Name": "Projapoti",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Purity",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Quality Plus",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Quality Trading",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "R J Cosmetic & Jewellery",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rabi Rothi",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Race",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Radiant",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Rahat Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rahmat'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rainbow International",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raisa Baby Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raisha Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raison",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raja Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rajshtan",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Rakib Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ramoni",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Rang Handi Craft",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rang Mela-2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rangoli",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rashmoni Bostraloy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Raven",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Real Man",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Red Design",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Redskins",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Reliant",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Remix Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Revlon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Riad Cosmetics And Garments",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ribana",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rich Cotton",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Right Choice",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "RN Fabrics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rockland Trading",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rommo",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rongoboti",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Roop Singer Sharee",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rose Valley",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rowshans",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rowshnee Different Boutique Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Roxy'S Collection",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Royal Baby",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Royal Color",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Royal Tailors",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Roza",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rr Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ruba'S Dream -2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rup Nagar Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rupangon",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rupantor",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rupashi",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rupayan",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ruper Hat",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rupom Corner",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Rup'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "S M Trade International",
+        "Category": "Lifestyle",
+        "Offer": "50%"
+      },
+      {
+        "Merchant_Name": "S Rahman Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "S S Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Saarah Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sabikun Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sadia",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Saila'S Gallery",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Saj India -1",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Salsabil",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Salwa Abaya'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Samir Outfitiers",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sana Clothing & Coshetics",
+        "Category": "Lifestyle",
+        "Offer": "10% On Selective Item"
+      },
+      {
+        "Merchant_Name": "Sanas Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sania Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Satkhira Plus",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Sauda Store",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sayra Sharees",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "SB Shopping Center",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Selfridges",
+        "Category": "Lifestyle",
+        "Offer": "10% Watch, Perfume & Bag"
+      },
+      {
+        "Merchant_Name": "Sew In Style",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Shaj Ghar",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Shalimar",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Shamsul Islam Lather House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sharee Centre",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sharee Century",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sharika Fashion House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sharin Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sharnali Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Shatata Cloth Store",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "She & He Consortium",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "She & He Consortium",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sheikh Shokh",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Shesho Mela",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Shila Collection",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Shohag Panjabi Bitan",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Shokhi",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Shoma",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Shormi'S Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Shukran",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Siddiqui Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sindom",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Smart N Cozy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sobia Newaz",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Sonet",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Spot Light",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Square Cosmetics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Srestho Gallery",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sristi Shila Boutique & Craft",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "SS Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ss Khan Panjabi House",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Starlet Fashion Maker",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Strike",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Style",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Style Hunt",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Style Index",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Style One",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Stylish Borka Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sugar Baby",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Suisuta",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sultan",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sultan Brand Shop",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Sultana",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sultan'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Sun City",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Sundas",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Super Nova",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Supreme",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Swapna Tuli Fashion Maker",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Taibah",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tailor",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Tajrian Fashion",
+        "Category": "Lifestyle",
+        "Offer": "12%"
+      },
+      {
+        "Merchant_Name": "Tangail Tant Ghar",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tanha Bag Collection",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tanha Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Tareq Enterprise",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Target",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tasnim Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tasnim Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tavaas",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Ten Top",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tense",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Texbi",
+        "Category": "Lifestyle",
+        "Offer": "12%"
+      },
+      {
+        "Merchant_Name": "The Glossy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "The Maple Fashion Bd",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "The New Secret",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "The Saudia Burka Centre",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "The Sports & Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Thikana",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tibisti Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Tk Tallors & Fabric",
+        "Category": "Lifestyle",
+        "Offer": "25%"
+      },
+      {
+        "Merchant_Name": "Tooth Fairy",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Top Man Plus",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Torulota",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Touch And Take",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Toufiq Bostraloy",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Treasure",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "U-2 Exclusive",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Unique Dress",
+        "Category": "Lifestyle",
+        "Offer": "Upto 15%"
+      },
+      {
+        "Merchant_Name": "Unique Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Unique Forever",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Unique Style",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Up N Top",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Urban Zone",
+        "Category": "Lifestyle",
+        "Offer": "10% on Fabrics"
+      },
+      {
+        "Merchant_Name": "Utsab",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Vai Vai Fashion",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Vigilance",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Violin",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Vogue Casita",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Volume",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Voyage",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Westeen",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Western Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Window",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "World Famous",
+        "Category": "Lifestyle",
+        "Offer": "15%"
+      },
+      {
+        "Merchant_Name": "Yaqub Brother'S",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Z Man",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zaara Fashions Mall",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zaara Neha Fashions Mall",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Zabin’S",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Zaftra",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zara",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zareen'S",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zarifa Cosmetics",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zarincom",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zarir",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zazabor",
+        "Category": "Lifestyle",
+        "Offer": "20%"
+      },
+      {
+        "Merchant_Name": "Zeeshan Boutiques & Irani Borka House - 2",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zenith",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zuper Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "Zuper Mart",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "3 Sis Xclusive",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "4 Sixty 5",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      },
+      {
+        "Merchant_Name": "5 K M",
+        "Category": "Lifestyle",
+        "Offer": "10%"
+      }
+    ]
+  }]

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Merchant Offers</title>
+    <!-- Include Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Include the Realm SDK -->
+    <script src="https://unpkg.com/realm-web/dist/bundle.iife.js"></script>
+</head>
+<body class="bg-gray-100 bg-gradient min-h-screen grid-cols-2 justify-center items-center">
+    <div class=" bg-white shadow-lg rounded-lg overflow-hidden mx-10 text-center py-10">
+        <h1 class="text-5xl font-bold mb-2 md:mb-4">Merchant Offers</h1>
+        <div class="px-16 py-10">
+            <div class="flex ">
+                <input type="text" id="searchInput" class="w-full p-10 border border-gray-300 rounded-l-md text-3xl " placeholder="Enter merchant_name">
+                <button class="bg-blue-500 text-white px-4 md:px-6 rounded-r-md text-3xl" id="searchButton">Search</button>
+            </div>
+        </div>
+        <label for="merchant" class="block text-3xl font-medium text-gray-700">If you are not sure select Merchant from here:</label>
+        <select id="merchant" class="mt-4 mx-11  py-6 px-8 border border-gray-300 bg-white rounded-md shadow-sm text-3xl focus:outline-none focus:ring-blue-500 focus:border-blue-500">
+            <option value="" class="text-5xl">Merchant</option>
+        </select>
+    </div>
+   <div class="bg-gray-300 mx-10">
+    <div id="offersList" class="mt-2 md:mt-4 text-4xl"></div>
+   </div> 
+    
+    <script>
+        const merchantSelect = document.getElementById('merchant');
+        const offersList = document.getElementById('offersList');
+        const searchInput = document.getElementById('searchInput');
+        const searchButton = document.getElementById('searchButton');
+        let allOffers = [];
+
+        const { Credentials } = Realm;
+
+        const appId = 'application-0-fhbys';
+        const app = new Realm.App({ id: appId });
+
+        // Authenticate with MongoDB Realm using anonymous authentication
+        app.logIn(Credentials.anonymous()).then(user => {
+            const mongodb = user.mongoClient('mongodb-atlas');
+            const collection = mongodb.db('test-app').collection('data');
+
+            // Fetch data from MongoDB Realm
+collection.find({}).then(result => {
+    // Check if result contains data and it's not empty
+    if (result.length > 0 && result[0].data.length > 0) {
+        allOffers = result[0].data;
+
+        // Populate the merchant select options
+        allOffers.forEach(merchant => {
+            const option = document.createElement('option');
+            option.value = merchant['Merchant_Name'];
+            option.text = merchant['Merchant_Name'];
+            merchantSelect.add(option);
+        });
+    } else {
+        console.error("No data found in the result from MongoDB.");
+    }
+});
+
+        });
+
+        function showOffers() {
+            const selectedMerchant = merchantSelect.value;
+            offersList.innerHTML = ''; // Clear previous offers
+
+            if (selectedMerchant) {
+                const offers = allOffers.filter(offer => offer['Merchant_Name'] === selectedMerchant);
+                displayOffers(offers);
+            }
+        }
+
+        function searchOffers() {
+            const searchTerm = searchInput.value.toLowerCase();
+            offersList.innerHTML = ''; // Clear previous offers
+
+            const filteredOffers = allOffers.filter(offer =>
+                offer['Merchant_Name'].toLowerCase().includes(searchTerm)
+            );
+
+            displayOffers(filteredOffers);
+        }
+
+        function displayOffers(offers) {
+            offers.forEach(offer => {
+                const offerDiv = document.createElement('div');
+                offerDiv.classList.add('bg-white', 'p-4', 'rounded', 'shadow', 'mb-4');
+                offerDiv.innerHTML = `
+                    <h2 class="text-5xl font-semibold mb-2">${offer['Merchant_Name']}</h2>
+                    <p class="mb-1"><span class="font-semibold">Category:</span> ${offer.Category}</p>
+                    <p class="mb-1"><span class="font-semibold">Offer:</span> ${offer.Offer}</p>
+                `;
+                offersList.appendChild(offerDiv);
+            });
+        }
+
+        // Event listener registration
+        merchantSelect.addEventListener('change', showOffers);
+        searchButton.addEventListener('click', searchOffers);
+    </script>
+</body>
+</html>

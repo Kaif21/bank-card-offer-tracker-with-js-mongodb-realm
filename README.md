@@ -26,6 +26,18 @@ Note: This application requires an active internet connection to fetch data from
 3. If you're unsure of the merchant name, select it from the dropdown list labeled "If you are not sure select Merchant from here."
 4. The matching offers will be displayed in the list below, showing the merchant name, category, and offer details.
 
+## **Test Data**
+
+A sample JSON file (`test-data.json`) is included in the repository for testing purposes. You can import this file into your MongoDB Realm database to populate it with sample offer data. Follow these steps:
+
+1. Create a new MongoDB Realm app and a cluster.
+2. In the Realm UI, go to the "Data" section and create a new database.
+3. Create a new collection named "data" within the database.
+4. Click on the "Collection" tab and then "Import File."
+5. Select the `test-data.json` file from the project directory and click "Import."
+
+After importing the test data, you should be able to see the offers in the application.
+
 ## **Dependencies**
 
 This project utilizes the following third-party libraries and resources:
@@ -43,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For any questions, suggestions, or inquiries, please contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any questions, suggestions, or inquiries, please contact the project maintainer at [Kaif21](https://www.linkedin.com/in/kaif-hossain/).

@@ -13,8 +13,8 @@ The Card Offer Tracker is a simple web application that helps bank cardholders d
 
 To run the Card Offer Tracker locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/card-offer-tracker.git`
-2. Navigate to the project directory: `cd card-offer-tracker`
+1. Clone the repository: `git clone https://github.com/Kaif21/bank-card-offer-tracker-with-js-mongodb-realm.git`
+2. Navigate to the project directory: `cd bank-card-offer-tracker-with-js-mongodb-realm`
 3. Open the `index.html` file in a web browser.
 
 Note: This application requires an active internet connection to fetch data from MongoDB Realm.
@@ -47,7 +47,7 @@ This project utilizes the following third-party libraries and resources:
 
 ## **Contributing**
 
-Contributions to the Card Offer Tracker project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/card-offer-tracker).
+Contributions to the Card Offer Tracker project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Kaif21/bank-card-offer-tracker-with-js-mongodb-realm).
 
 ## **License**
 
